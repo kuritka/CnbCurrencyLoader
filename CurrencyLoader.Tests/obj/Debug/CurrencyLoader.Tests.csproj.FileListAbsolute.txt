@@ -1,0 +1,16 @@
+C:\CnbCurrencyLoader\CurrencyLoader.Tests\bin\Debug\CurrencyLoader.Tests.dll.config
+C:\CnbCurrencyLoader\CurrencyLoader.Tests\bin\Debug\CurrencyLoader.Tests.dll
+C:\CnbCurrencyLoader\CurrencyLoader.Tests\bin\Debug\CurrencyLoader.Tests.pdb
+C:\CnbCurrencyLoader\CurrencyLoader.Tests\bin\Debug\CurrencyLoader.exe
+C:\CnbCurrencyLoader\CurrencyLoader.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\CnbCurrencyLoader\CurrencyLoader.Tests\bin\Debug\FluentAssertions.dll
+C:\CnbCurrencyLoader\CurrencyLoader.Tests\bin\Debug\CommandLine.dll
+C:\CnbCurrencyLoader\CurrencyLoader.Tests\bin\Debug\CurrencyLoader.pdb
+C:\CnbCurrencyLoader\CurrencyLoader.Tests\bin\Debug\FluentAssertions.pdb
+C:\CnbCurrencyLoader\CurrencyLoader.Tests\bin\Debug\FluentAssertions.xml
+C:\CnbCurrencyLoader\CurrencyLoader.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\CnbCurrencyLoader\CurrencyLoader.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\CnbCurrencyLoader\CurrencyLoader.Tests\bin\Debug\CommandLine.xml
+C:\CnbCurrencyLoader\CurrencyLoader.Tests\obj\Debug\CurrencyLoader.Tests.csprojResolveAssemblyReference.cache
+C:\CnbCurrencyLoader\CurrencyLoader.Tests\obj\Debug\CurrencyLoader.Tests.dll
+C:\CnbCurrencyLoader\CurrencyLoader.Tests\obj\Debug\CurrencyLoader.Tests.pdb

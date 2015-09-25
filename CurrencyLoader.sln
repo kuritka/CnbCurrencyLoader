@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyLoader", "CurrencyLoader\CurrencyLoader.csproj", "{AE20D730-F01E-4DFD-A066-839161F4873A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyLoader.Tests", "CurrencyLoader.Tests\CurrencyLoader.Tests.csproj", "{92E51782-4DC9-4CA2-9F7F-05C39C3A56D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{A2A2648E-A973-4938-9BC2-DAFB096D29A7}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfsprod.intranet.commerzbank.com:8443/tfs/agile
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CurrencyLoader.Tests\\CurrencyLoader.Tests.csproj
+		SccProjectName1 = CurrencyLoader.Tests
+		SccLocalPath1 = CurrencyLoader.Tests
+		SccProjectUniqueName2 = CurrencyLoader\\CurrencyLoader.csproj
+		SccProjectName2 = CurrencyLoader
+		SccLocalPath2 = CurrencyLoader
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE20D730-F01E-4DFD-A066-839161F4873A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE20D730-F01E-4DFD-A066-839161F4873A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE20D730-F01E-4DFD-A066-839161F4873A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE20D730-F01E-4DFD-A066-839161F4873A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E51782-4DC9-4CA2-9F7F-05C39C3A56D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E51782-4DC9-4CA2-9F7F-05C39C3A56D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E51782-4DC9-4CA2-9F7F-05C39C3A56D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E51782-4DC9-4CA2-9F7F-05C39C3A56D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader.Tests\bin\Release\Commerzbank.PragueIS.CurrencyLoader.Tests.dll.config
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader.Tests\bin\Release\Commerzbank.PragueIS.CurrencyLoader.Tests.dll
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader.Tests\bin\Release\Commerzbank.PragueIS.CurrencyLoader.Tests.pdb
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader.Tests\bin\Release\Commerzbank.PragueIS.CurrencyLoader.exe
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader.Tests\bin\Release\FluentAssertions.Core.dll
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader.Tests\bin\Release\FluentAssertions.dll
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader.Tests\bin\Release\CommandLine.dll
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader.Tests\bin\Release\Commerzbank.PragueIS.CurrencyLoader.pdb
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader.Tests\bin\Release\FluentAssertions.pdb
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader.Tests\bin\Release\FluentAssertions.xml
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader.Tests\bin\Release\FluentAssertions.Core.pdb
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader.Tests\bin\Release\FluentAssertions.Core.xml
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader.Tests\bin\Release\CommandLine.xml
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader.Tests\obj\Release\Commerzbank.PragueIS.CurrencyLoader.Tests.csprojResolveAssemblyReference.cache
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader.Tests\obj\Release\Commerzbank.PragueIS.CurrencyLoader.Tests.dll
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader.Tests\obj\Release\Commerzbank.PragueIS.CurrencyLoader.Tests.pdb

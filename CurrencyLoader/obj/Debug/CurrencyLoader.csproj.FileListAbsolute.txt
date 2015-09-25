@@ -1,0 +1,11 @@
+C:\CnbCurrencyLoader\CurrencyLoader\bin\Debug\CurrencyLoader.exe.config
+C:\CnbCurrencyLoader\CurrencyLoader\bin\Debug\CurrencyLoader.exe
+C:\CnbCurrencyLoader\CurrencyLoader\bin\Debug\CurrencyLoader.pdb
+C:\CnbCurrencyLoader\CurrencyLoader\bin\Debug\CommandLine.dll
+C:\CnbCurrencyLoader\CurrencyLoader\bin\Debug\DocumentFormat.OpenXml.dll
+C:\CnbCurrencyLoader\CurrencyLoader\bin\Debug\CommandLine.xml
+C:\CnbCurrencyLoader\CurrencyLoader\obj\Debug\CurrencyLoader.csprojResolveAssemblyReference.cache
+C:\CnbCurrencyLoader\CurrencyLoader\obj\Debug\CurrencyLoader.Resource1.resources
+C:\CnbCurrencyLoader\CurrencyLoader\obj\Debug\CurrencyLoader.csproj.GenerateResource.Cache
+C:\CnbCurrencyLoader\CurrencyLoader\obj\Debug\CurrencyLoader.exe
+C:\CnbCurrencyLoader\CurrencyLoader\obj\Debug\CurrencyLoader.pdb

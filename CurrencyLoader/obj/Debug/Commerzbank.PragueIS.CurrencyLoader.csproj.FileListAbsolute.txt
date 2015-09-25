@@ -1,0 +1,11 @@
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader\bin\Debug\Commerzbank.PragueIS.CurrencyLoader.exe.config
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader\bin\Debug\Commerzbank.PragueIS.CurrencyLoader.exe
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader\bin\Debug\Commerzbank.PragueIS.CurrencyLoader.pdb
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader\bin\Debug\CommandLine.dll
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader\bin\Debug\CommandLine.xml
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader\obj\Debug\Commerzbank.PragueIS.CurrencyLoader.csprojResolveAssemblyReference.cache
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader\obj\Debug\Commerzbank.PragueIS.CurrencyLoader.Resource1.resources
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader\obj\Debug\Commerzbank.PragueIS.CurrencyLoader.csproj.GenerateResource.Cache
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader\obj\Debug\Commerzbank.PragueIS.CurrencyLoader.exe
+C:\Workspace\Pragis21\Source\Commerzbank.PragueIS.CurrencyLoader\obj\Debug\Commerzbank.PragueIS.CurrencyLoader.pdb

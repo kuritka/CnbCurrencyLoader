@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CurrencyLoader" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="sourceDDMMYYYY" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.txt?date={0}.{1}.{2}</Value>
+    </Setting>
+    <Setting Name="sourceCurrent" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.txt</Value>
+    </Setting>
+    <Setting Name="connectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data source=SV161230\PROD; initial catalog=CNBrates;user id=cnbrates;password=cnbrates123</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
